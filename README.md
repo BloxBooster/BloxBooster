@@ -19,7 +19,7 @@ A lightweight, open-source utility designed to optimize Roblox performance by un
 
     Extract: Unzip the folder to your preferred location.
 
-    Launch: Run RobloxBoost.exe before or during your Roblox session.
+    Launch: Run BloxBooster v2 before or during your Roblox session.
 
     Configure: Use the system tray icon to adjust your FPS cap and animation settings.
 
