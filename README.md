@@ -1,55 +1,42 @@
-🚀 Roblox FPS Booster & Effect-Animations
+Bloxshade - V2
 
-A lightweight, open-source utility designed to optimize Roblox performance by unlocking frame rates and managing high-intensity visual effects. Get a smoother competitive edge without sacrificing the core game experience.
-🛠 Key Features
+Bloxshade is a powerful shader tool for Roblox that enhances the graphical quality of the games you play. It adds various visual effects, including better lighting, shadows, and reflections, to give Roblox games a more polished and immersive look.
 
-    FPS Unlocker: Bypass the default 60 FPS cap for ultra-smooth gameplay on high-refresh-rate monitors.
+Features
+Improved Lighting: Brighter and more realistic lighting effects.
+Dynamic Shadows: High-quality, dynamic shadows for better depth and realism.
+Reflections: Realistic reflections on surfaces for a more immersive environment.
+Post-Processing Effects: Bloom, motion blur, and color grading to improve visual fidelity.
+Prerequisites
 
-    Animation Optimizer: Streamlines complex character and environment animations to reduce CPU overhead.
+Before you install Bloxshade, make sure you have the following:
 
-    Particle Manager: Toggle or scale down "lag-heavy" effects like explosions, sparkles, and smoke.
+A Windows operating system.
+Roblox Studio or Roblox Player installed.
+A graphics card capable of handling advanced shaders (some older hardware may experience performance issues).
+Installation
+Step 1: Download Bloxshade
+Go to the Releases page
+.
+Download the latest release of the Bloxshade setup file (e.g., BloxshadeSetup_v2 ).
+Move the setup file to your Desktop for easy access.
+Step 2: Run the Setup
+Double-click the BloxshadeSetup file on your Desktop to start the installation process.
+Follow the on-screen instructions to install Bloxshade.
+Step 3: Enable Bloxshade
+After installation, launch Roblox Studio or Roblox Player.
+Open the Bloxshade application, and ensure it is enabled for your session.
+Enjoy enhanced graphics and visuals in Roblox games.
+Troubleshooting
+If you experience performance issues, try lowering the graphics settings in Roblox .
+If Bloxshade is not working as expected, make sure your graphics drivers are up to date.
+License
 
-    Low-Latency Mode: Reduces input lag by optimizing the render queue.
+This project is licensed under the MIT License - see the LICENSE
+ file for details.
 
-    One-Click Presets: Choose between Potato, Balanced, or Competitive profiles.
+Notes
+Performance: Bloxshade can put additional strain on your system, especially if you have an older or less powerful graphics card. It’s recommended to test the tool with different settings to find the best balance between visual quality and performance.
+Compatibility: Bloxshade may not work on all Roblox games, and its effects might vary depending on the game’s existing graphics and settings.
 
-📥 Installation
-
-    Download: Grab the latest release from the Releases tab.
-
-    Extract: Unzip the folder to your preferred location.
-
-    Launch: Run BloxBooster v2 before or during your Roblox session.
-
-    Configure: Use the system tray icon to adjust your FPS cap and animation settings.
-
-⚙️ How it Works
-
-The booster interacts with the client-side settings to prioritize performance. By adjusting the way the engine handles Interpolation and Particle Emitters, the app frees up system resources.
-Technical Overview
-
-For those interested in the math behind the frame timing:
-The application adjusts the frame delta to ensure consistent delivery:
-Tframe​=FPStarget​1​
-
-By minimizing Tframe​ fluctuations, you experience less "micro-stuttering" during intense combat.
-❓ FAQ
-
-Is this bannable?
-This tool operates similarly to standard FPS unlockers. It does not inject code into the game memory or provide an unfair advantage (like aimbots); it simply optimizes how the game renders on your hardware. However, always use at your own risk.
-
-Does it work on Mac?
-Currently, this version is optimized for Windows 10/11.
-🤝 Contributing
-
-Contributions are what make the community great!
-
-    Fork the Project.
-
-    Create your Feature Branch (git checkout -b feature/AmazingFeature).
-
-    Commit your Changes (git commit -m 'Add some AmazingFeature').
-
-    Push to the Branch (git push origin feature/AmazingFeature).
-
-    Open a Pull Request.
+Let me know if you'd like me to add or change anything else!
